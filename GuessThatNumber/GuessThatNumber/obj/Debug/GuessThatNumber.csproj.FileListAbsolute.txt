@@ -1,0 +1,6 @@
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\GuessThatNumber\GuessThatNumber\bin\Debug\GuessThatNumber.exe.config
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\GuessThatNumber\GuessThatNumber\bin\Debug\GuessThatNumber.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\GuessThatNumber\GuessThatNumber\bin\Debug\GuessThatNumber.pdb
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\GuessThatNumber\GuessThatNumber\obj\Debug\GuessThatNumber.csprojResolveAssemblyReference.cache
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\GuessThatNumber\GuessThatNumber\obj\Debug\GuessThatNumber.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\GuessThatNumber\GuessThatNumber\obj\Debug\GuessThatNumber.pdb

@@ -1,0 +1,6 @@
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\Week2CodeChallenge\Week2CodeChallenge\bin\Debug\Week2CodeChallenge.exe.config
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\Week2CodeChallenge\Week2CodeChallenge\bin\Debug\Week2CodeChallenge.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\Week2CodeChallenge\Week2CodeChallenge\bin\Debug\Week2CodeChallenge.pdb
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\Week2CodeChallenge\Week2CodeChallenge\obj\Debug\Week2CodeChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\Week2CodeChallenge\Week2CodeChallenge\obj\Debug\Week2CodeChallenge.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\Week2CodeChallenge\Week2CodeChallenge\obj\Debug\Week2CodeChallenge.pdb

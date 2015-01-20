@@ -1,0 +1,6 @@
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\CannonAttack\CannonAttack\bin\Debug\CannonAttack.exe.config
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\CannonAttack\CannonAttack\bin\Debug\CannonAttack.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\CannonAttack\CannonAttack\bin\Debug\CannonAttack.pdb
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\CannonAttack\CannonAttack\obj\Debug\CannonAttack.csprojResolveAssemblyReference.cache
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\CannonAttack\CannonAttack\obj\Debug\CannonAttack.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\CannonAttack\CannonAttack\obj\Debug\CannonAttack.pdb

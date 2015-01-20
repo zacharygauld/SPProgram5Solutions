@@ -1,0 +1,6 @@
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\Enumerations\Enumerations\bin\Debug\Enumerations.exe.config
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\Enumerations\Enumerations\bin\Debug\Enumerations.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\Enumerations\Enumerations\bin\Debug\Enumerations.pdb
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\Enumerations\Enumerations\obj\Debug\Enumerations.csprojResolveAssemblyReference.cache
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\Enumerations\Enumerations\obj\Debug\Enumerations.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\Enumerations\Enumerations\obj\Debug\Enumerations.pdb

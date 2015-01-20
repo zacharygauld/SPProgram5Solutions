@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="CombatSimulator.exe" version="1.0.0.0" publicKeyToken="5d5736821a150a0b" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CombatSimulator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="CombatSimulator.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CombatSimulator.exe" size="7680">
+      <assemblyIdentity name="CombatSimulator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>hgz+0qdHNVkklu41qW0OmJcMDy6FlsImXpbnkyutZ/8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="CombatSimulator.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Velociraptor\Zachary" issuerKeyHash="27a231166c54c8efce7846fd96d64c1e070ac028" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Li4pc30FXie8HuBHCBKDkEcjS4ZLFzkGpc4vg6bcxWI=</DigestValue></Reference></SignedInfo><SignatureValue>QFE7fnVfW1gcCuXmd3y8ei9Z/90gkRl8yKN+zHvkZAexNmtJ9X924DDDOjDX3fmc5U4B2/R6jA2o5wSNyzzn0GE5iN84luZw1wZsg0hq1g8q8MRMibQs/YQWZI8o+yfmYeCyHZmGUG4FUNQQbfiUDHS7rtaRFqig215QN+Ev5g0=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>vkcel/PZfltb5SHaW6SDa2oYWcchuWXRjyXvz3luZBLcfIa96Bh/OEOHuJANgztydhJKRqeCPw7soe8y0MMT1ROSt3qXfeQM34WxtQ9f67vEyD1srOJiRzx5mpLkE089IdEjX6aoPMmQWU9Un6x00qRLRhDY4azzKu5FXQqse08=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="62c5dca6832fcea50639174b864b23479083120847e01ebc275e057d73292e2e" Description="" Url=""><as:assemblyIdentity name="CombatSimulator.exe" version="1.0.0.0" publicKeyToken="5d5736821a150a0b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Velociraptor\Zachary</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>rsaohXzGDdKefgzj1KmxLoVwwcqOYWKW/evMi1KhVa0=</DigestValue></Reference></SignedInfo><SignatureValue>vIsZzap4v9fCWyBwZxypIeRJxVzkXfjmmH2ttW97lRHNKUuIKPhYs+eaEr8zYiFDr3f7QchR+Fkg6vEmqZ1Xqn5UMKXbaX1Zd0QYRIbYr5aTmWm8vSvw/wFLSlWMqWQL7voV3Y99Lgbg1Ltgi7d7Jj98hpexxFUgEBqaAiS5qLc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vkcel/PZfltb5SHaW6SDa2oYWcchuWXRjyXvz3luZBLcfIa96Bh/OEOHuJANgztydhJKRqeCPw7soe8y0MMT1ROSt3qXfeQM34WxtQ9f67vEyD1srOJiRzx5mpLkE089IdEjX6aoPMmQWU9Un6x00qRLRhDY4azzKu5FXQqse08=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQYfW0NwMxNoZHLGWMJOntwTANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigAVgBlAGwAbwBjAGkAcgBhAHAAdABvAHIAXABaAGEAYwBoAGEAcgB5MB4XDTE0MTEwOTA0MjEwOVoXDTE1MTEwOTEwMjEwOVowMzExMC8GA1UEAx4oAFYAZQBsAG8AYwBpAHIAYQBwAHQAbwByAFwAWgBhAGMAaABhAHIAeTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAvkcel/PZfltb5SHaW6SDa2oYWcchuWXRjyXvz3luZBLcfIa96Bh/OEOHuJANgztydhJKRqeCPw7soe8y0MMT1ROSt3qXfeQM34WxtQ9f67vEyD1srOJiRzx5mpLkE089IdEjX6aoPMmQWU9Un6x00qRLRhDY4azzKu5FXQqse08CAwEAATANBgkqhkiG9w0BAQsFAAOBgQAXeyHLl51ofgkpYCJMq/2tgInoph2/WhWGpNUI8/u9ad8Fil3AAGChx/6JC+RD6oOx7VFKfzWnv1dQak2F2b9236jzVjdrreucpmWRPCMTRctl0rD/FKhROVWt38KHWk6/pBGIWIz4TnGr1+wYQMP7A+qtoRssBa7Qt+DHfODk2g==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

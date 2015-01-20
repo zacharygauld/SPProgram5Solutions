@@ -1,0 +1,5 @@
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\ChangeMaker\ChangeMaker\bin\Debug\ChangeMaker.exe.config
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\ChangeMaker\ChangeMaker\bin\Debug\ChangeMaker.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\ChangeMaker\ChangeMaker\bin\Debug\ChangeMaker.pdb
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\ChangeMaker\ChangeMaker\obj\Debug\ChangeMaker.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\ChangeMaker\ChangeMaker\obj\Debug\ChangeMaker.pdb

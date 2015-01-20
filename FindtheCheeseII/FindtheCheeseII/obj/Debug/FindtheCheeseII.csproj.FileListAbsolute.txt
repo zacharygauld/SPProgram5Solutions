@@ -1,0 +1,6 @@
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\FindtheCheeseII\FindtheCheeseII\bin\Debug\FindtheCheeseII.exe.config
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\FindtheCheeseII\FindtheCheeseII\bin\Debug\FindtheCheeseII.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\FindtheCheeseII\FindtheCheeseII\bin\Debug\FindtheCheeseII.pdb
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\FindtheCheeseII\FindtheCheeseII\obj\Debug\FindtheCheeseII.csprojResolveAssemblyReference.cache
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\FindtheCheeseII\FindtheCheeseII\obj\Debug\FindtheCheeseII.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\FindtheCheeseII\FindtheCheeseII\obj\Debug\FindtheCheeseII.pdb

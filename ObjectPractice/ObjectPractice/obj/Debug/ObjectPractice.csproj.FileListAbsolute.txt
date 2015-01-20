@@ -1,0 +1,6 @@
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\ObjectPractice\ObjectPractice\bin\Debug\ObjectPractice.exe.config
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\ObjectPractice\ObjectPractice\bin\Debug\ObjectPractice.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\ObjectPractice\ObjectPractice\bin\Debug\ObjectPractice.pdb
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\ObjectPractice\ObjectPractice\obj\Debug\ObjectPractice.csprojResolveAssemblyReference.cache
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\ObjectPractice\ObjectPractice\obj\Debug\ObjectPractice.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\ObjectPractice\ObjectPractice\obj\Debug\ObjectPractice.pdb

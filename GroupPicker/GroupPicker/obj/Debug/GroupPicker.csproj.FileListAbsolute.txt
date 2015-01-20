@@ -1,0 +1,6 @@
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\GroupPicker\GroupPicker\bin\Debug\GroupPicker.exe.config
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\GroupPicker\GroupPicker\bin\Debug\GroupPicker.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\GroupPicker\GroupPicker\bin\Debug\GroupPicker.pdb
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\GroupPicker\GroupPicker\obj\Debug\GroupPicker.csprojResolveAssemblyReference.cache
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\GroupPicker\GroupPicker\obj\Debug\GroupPicker.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\GroupPicker\GroupPicker\obj\Debug\GroupPicker.pdb

@@ -1,0 +1,6 @@
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\DigitalRoot\DigitalRoot\bin\Debug\DigitalRoot.exe.config
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\DigitalRoot\DigitalRoot\bin\Debug\DigitalRoot.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\DigitalRoot\DigitalRoot\bin\Debug\DigitalRoot.pdb
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\DigitalRoot\DigitalRoot\obj\Debug\DigitalRoot.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\DigitalRoot\DigitalRoot\obj\Debug\DigitalRoot.pdb
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\DigitalRoot\DigitalRoot\obj\Debug\DigitalRoot.csprojResolveAssemblyReference.cache

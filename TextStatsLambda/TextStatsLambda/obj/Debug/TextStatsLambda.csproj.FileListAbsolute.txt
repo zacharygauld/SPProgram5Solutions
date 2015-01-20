@@ -1,0 +1,6 @@
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\TextStatsLambda\TextStatsLambda\bin\Debug\TextStatsLambda.exe.config
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\TextStatsLambda\TextStatsLambda\bin\Debug\TextStatsLambda.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\TextStatsLambda\TextStatsLambda\bin\Debug\TextStatsLambda.pdb
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\TextStatsLambda\TextStatsLambda\obj\Debug\TextStatsLambda.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\TextStatsLambda\TextStatsLambda\obj\Debug\TextStatsLambda.pdb
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\TextStatsLambda\TextStatsLambda\obj\Debug\TextStatsLambda.csprojResolveAssemblyReference.cache

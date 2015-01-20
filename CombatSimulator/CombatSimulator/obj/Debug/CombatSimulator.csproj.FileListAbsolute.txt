@@ -1,0 +1,10 @@
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\CombatSimulator\CombatSimulator\bin\Debug\CombatSimulator.exe.config
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\CombatSimulator\CombatSimulator\bin\Debug\CombatSimulator.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\CombatSimulator\CombatSimulator\bin\Debug\CombatSimulator.pdb
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\CombatSimulator\CombatSimulator\obj\Debug\CombatSimulator.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\CombatSimulator\CombatSimulator\obj\Debug\CombatSimulator.pdb
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\CombatSimulator\CombatSimulator\obj\Debug\CombatSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\CombatSimulator\CombatSimulator\bin\Debug\CombatSimulator.exe.manifest
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\CombatSimulator\CombatSimulator\bin\Debug\CombatSimulator.application
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\CombatSimulator\CombatSimulator\obj\Debug\CombatSimulator.exe.manifest
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\CombatSimulator\CombatSimulator\obj\Debug\CombatSimulator.application

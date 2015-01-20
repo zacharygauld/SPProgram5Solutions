@@ -1,0 +1,6 @@
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\LetterFinderandWordFinder\LetterFinderandWordFinder\bin\Debug\LetterFinderandWordFinder.exe.config
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\LetterFinderandWordFinder\LetterFinderandWordFinder\obj\Debug\LetterFinderandWordFinder.csprojResolveAssemblyReference.cache
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\LetterFinderandWordFinder\LetterFinderandWordFinder\bin\Debug\LetterFinderandWordFinder.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\LetterFinderandWordFinder\LetterFinderandWordFinder\bin\Debug\LetterFinderandWordFinder.pdb
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\LetterFinderandWordFinder\LetterFinderandWordFinder\obj\Debug\LetterFinderandWordFinder.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\LetterFinderandWordFinder\LetterFinderandWordFinder\obj\Debug\LetterFinderandWordFinder.pdb

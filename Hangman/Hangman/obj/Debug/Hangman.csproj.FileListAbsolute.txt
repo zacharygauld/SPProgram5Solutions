@@ -1,0 +1,6 @@
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\Hangman\Hangman\obj\Debug\Hangman.csprojResolveAssemblyReference.cache
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\Hangman\Hangman\obj\Debug\Hangman.pdb

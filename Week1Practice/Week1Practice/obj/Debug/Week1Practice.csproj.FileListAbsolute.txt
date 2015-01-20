@@ -1,0 +1,6 @@
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\Week1Practice\Week1Practice\bin\Debug\Week1Practice.exe.config
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\Week1Practice\Week1Practice\bin\Debug\Week1Practice.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\Week1Practice\Week1Practice\bin\Debug\Week1Practice.pdb
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\Week1Practice\Week1Practice\obj\Debug\Week1Practice.csprojResolveAssemblyReference.cache
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\Week1Practice\Week1Practice\obj\Debug\Week1Practice.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\Week1Practice\Week1Practice\obj\Debug\Week1Practice.pdb

@@ -1,0 +1,6 @@
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\TextPrinter\TextPrinter\bin\Debug\TextPrinter.exe.config
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\TextPrinter\TextPrinter\bin\Debug\TextPrinter.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\TextPrinter\TextPrinter\bin\Debug\TextPrinter.pdb
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\TextPrinter\TextPrinter\obj\Debug\TextPrinter.csprojResolveAssemblyReference.cache
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\TextPrinter\TextPrinter\obj\Debug\TextPrinter.exe
+C:\Users\Zachary\Documents\GitHub\Program5Solutions\TextPrinter\TextPrinter\obj\Debug\TextPrinter.pdb
